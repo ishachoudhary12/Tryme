@@ -1,0 +1,22 @@
+#creating-my-first-app{
+    color: #00FF00;
+  }
+  
+  #creating-my-first-app:hover{
+    color: aqua;
+  }
+  
+  
+  .row-widget.stButton {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button.css-1q8dd3e.edgvbvh9{
+    width: 50vw;
+    
+  }
+  
+  .stAlert {
+    text-align: center;
+  }
